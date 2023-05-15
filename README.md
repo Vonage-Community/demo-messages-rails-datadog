@@ -5,7 +5,7 @@
 To run this demo application, you will need the following:
 
 - [Ruby](https://www.ruby-lang.org/en/documentation/installation/) installed
-- A Vonage Developer account
+- A [Vonage Developer](https://developer.vonage.com/sign-up) account
 - A [Datadog Account](https://ap1.datadoghq.com/signup), with:
   - The appropriate [Datadog Agent](https://docs.datadoghq.com/agent/) installed on your system
   - The Datadog [Ruby Integration](https://docs.datadoghq.com/integrations/ruby/) installed and configured
